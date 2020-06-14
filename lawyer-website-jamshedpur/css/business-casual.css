@@ -43,12 +43,6 @@ p {
   font-weight: 800;
 }
 
-.card-class{
-  position: absolute;
-    left: 50%;
-  
-}
-
 .site-heading .site-heading-lower {
   font-size: 5rem;
   font-weight: 100;
@@ -64,27 +58,15 @@ p {
   text-transform: uppercase;
 }
 
-.home-img{
-  height:55px;
-  width:55px;
-}
-
 .section-heading .section-heading-upper {
   display: block;
   font-size: 1rem;
   font-weight: 800;
 }
 
-.lawyer-img{
-  height:250px;
-  width:250px;
-  margin-top: 96px;
-  margin-right: 35px;
-}
-
 .section-heading .section-heading-lower {
   display: block;
-  font-size: 2rem;
+  font-size: 3rem;
   font-weight: 100;
 }
 
@@ -139,7 +121,6 @@ p {
   .intro .intro-img {
     width: 75%;
     float: right;
-    position:relative;
   }
   .intro .intro-text {
     left: 0;
